@@ -7,8 +7,8 @@
     "dev": "pnpm --filter '@xhh-element/play' dev",
     "docs:dev": "pnpm --filter '@xhh-element/docs' dev",
     "docs:build": "pnpm --filter '@xhh-element/docs' build",
-    "test": "each 'todo'"
-  },
+    "test": "echo 'No tests yet'"
+  },  
   "keywords": [],
   "author": "",
   "license": "ISC",
