@@ -1,4 +1,4 @@
-<script setup lang="ts">
+<!-- <script setup lang="ts">
 import { ref } from "vue";
 import { ArrowDown } from "@element-plus/icons-vue";
 import type { ReCardFoldProps } from "./types";
@@ -86,4 +86,4 @@ const toggleFold = () => {
     opacity 0.3s ease 0.1s,
     transform 0.3s ease 0.1s;
 }
-</style>
+</style> -->
